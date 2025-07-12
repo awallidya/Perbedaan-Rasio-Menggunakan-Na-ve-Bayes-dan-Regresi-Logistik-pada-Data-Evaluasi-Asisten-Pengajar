@@ -1,0 +1,1 @@
+# Perbedaan-Rasio-Menggunakan-Na-ve-Bayes-dan-Regresi-Logistik-pada-Data-Evaluasi-Asisten-Pengajar
